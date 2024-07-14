@@ -1,0 +1,2 @@
+reguired plugin : ONet Regenerate Thumbnails -> RegenerateThumbnails
+[tslider][tslide caption = 'Our 1' id=68 /][tslide caption = 'Our 2' id=69 /] [tslide caption = 'Our 3' id=70 /][/tslider]
